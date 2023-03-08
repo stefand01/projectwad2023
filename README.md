@@ -2,10 +2,16 @@
 
 Team members: Dinca Andrei Ioan, Muntean Luca - Maximilian, Dumitrescu Stefan - Daniel
 
-Games site based on challenging other people.
- Main features : -Something akin to elo system
-                 -Virtual currency that you gain or lose based on the outcome of the games
-                 -Cosmetic shop to customize your profile and more 
+As a user I want to have my own customizable profile.
+As a user I want to play games against other users.
+As a user I want to be matched against similarily skilled players.
+As a user I want to gain something by beating other users.
+As a user I want to chat with other players.
+As a user I want to spend my credits in a store.
+As an admin I want to have access to chat logs of the games.
+As an admin I want to monitor games.
+As an admin I want to have the possibility to sanction other users.
+
 
 
 
