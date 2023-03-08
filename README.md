@@ -2,7 +2,7 @@
 
 Team members: Dinca Andrei Ioan, Muntean Luca - Maximilian, Dumitrescu Stefan - Daniel
 
-As a user I want to have my own customizable profile.
+As a user I want to have my own customizable profile. <br />
 As a user I want to play games against other users.
 As a user I want to be matched against similarily skilled players.
 As a user I want to gain something by beating other users.
